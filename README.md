@@ -1,2 +1,2 @@
 # Ping-Pong
-Game
+Python Game
